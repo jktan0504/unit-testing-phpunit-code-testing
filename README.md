@@ -4,7 +4,7 @@ PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of
 
 ## Version
 
-phpunit version: 0.55.4<br />
+phpunit version: ^8<br />
 
 ```bash
 "phpunit/phpunit": "^8",
