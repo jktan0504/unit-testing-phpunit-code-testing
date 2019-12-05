@@ -4,9 +4,8 @@ PHPUnit is a programmer-oriented testing framework for PHP. It is an instance of
 
 ## Version
 
-current app version: 1.0.19<br />
+phpunit version: 0.55.4<br />
 
-react-native version: 0.55.4<br />
 ```bash
 "phpunit/phpunit": "^8",
 ```
